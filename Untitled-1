@@ -1,0 +1,4 @@
+3877213 (HEAD -> master, origin/master) HEAD@{0}: reset: moving to HEAD~1
+e159e84 HEAD@{1}: commit: third push
+3877213 (HEAD -> master, origin/master) HEAD@{2}: commit: second push
+1ebdf11 HEAD@{3}: commit (initial): gav
